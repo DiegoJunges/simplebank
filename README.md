@@ -155,3 +155,6 @@ The service that we’re going to build is a simple bank. It will provide APIs f
     ```bash
     kubectl apply -f https://github.com/jetstack/cert-manager/releases/download/v1.4.0/cert-manager.yaml
     ```
+
+
+Made with 💜 &nbsp;by Diego Junges 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/diego-junges/)
