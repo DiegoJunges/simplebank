@@ -18,7 +18,7 @@ require (
 	github.com/ugorji/go v1.2.6 // indirect
 	golang.org/x/crypto v0.0.0-20220131195533-30dcbda58838
 	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a // indirect
-	google.golang.org/grpc v1.43.0
+	google.golang.org/grpc v1.46.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/ini.v1 v1.66.3 // indirect
 )
